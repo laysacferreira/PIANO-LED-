@@ -34,4 +34,4 @@ O projeto utiliza conceitos como:
 
 Este projeto é ideal para iniciantes em eletrônica e programação embarcada, pois demonstra de forma prática como controlar componentes físicos utilizando Python.
 
-Com melhorias, é possível adicionar botões, sensores ou alterar os padrões de iluminação, criando projetos mais interativos e complexos.
+
